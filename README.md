@@ -1,4 +1,3 @@
-# online-retail-tableau-dashboard
 # 📊 Online Retail Dashboard – Tableau
 
 This project presents an interactive **data visualization dashboard** built using **Tableau**, aimed at uncovering business insights from an online retail dataset.
